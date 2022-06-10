@@ -1,37 +1,40 @@
-- name: Adit Khokar
-  github: adit-khokar
-  facebook: adit.khokar.3
-  mob: 9149376852
+- name: Akshat Arya 
+  github: Ak-Ar 
+  facebook: profile.php?id=100057133705422
+  linkedin: https://www.linkedin.com/in/akshat-arya-4b0318202/
+  mob: 9314670664 
   add: 
-  email: adit
-  image: adit.jpg
-  linkedin: https://www.linkedin.com/in/adit-khokar-a3a250181/
+  email: akshatarya20@iitk.ac.in	
+  image: Akshat.jpg
 
-- name: Azhar Tanweer
-  github: Azhar-999-coder
-  facebook: azhar.tanweer
-  mob: 7895358244
-  add: 13/C502
-  email: azhart
-  image: azhar.jpg
-  linkedin: https://www.linkedin.com/in/azhar999/
 
-- name: Jaagrati Jain	
-  github: jaagratijain
-  facebook: jaagrati.jain.505
-  mob: 9413772474
-  add: 6/A502
-  email: jaagrati
-  image: jaagrati.jpg
-  linkedin: https://www.linkedin.com/in/jaagrati-jain-a93a4a18b/
+- name: Arnav Pandey
+  github: Arpanet007
+  facebook: arnav.pandey.37853
+  linkedin: https://in.linkedin.com/in/arnavp7
+  mob: 6388798628
+  add: 
+  email: arnavp20@iitk.ac.in
+  image: Arnav.jpg
+  
+  
+  - name: Aryan Jain
+  github: aryanjain19
+  facebook: profile.php?id=100056025635847
+  linkedin: www.linkedin.com/in/aryan-jain-051468207
+  mob: 8968134786
+  add: 
+  email: aryanj20@iitk.ac.in	
+  image: Aryan.jpg
 
-- name: Prateek Jain	
-  github: Prateekjain09
-  facebook: profile.php?id=100003917757990
-  mob: 8562042492
-  add: 13/D307
-  email: prateekj	
-  image: prateek.jpg
-  linkedin: https://www.linkedin.com/in/prateek-jain-2018311a9/
+
+- name: Suhani		
+  github: suhani-sharma
+  facebook: profile.php?id=100056018400116
+  linkedin: https://www.linkedin.com/in/suhani-sharma-39a0591b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVD%2F03AOgQIeg9mvQGYAWNg%3D%3D
+  mob: 9914802525
+  add:
+  email: suhani20@iitk.ac.in
+  image: Suhani.jpg
 
 
